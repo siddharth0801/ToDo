@@ -1,0 +1,28 @@
+#about {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#about {
+    font-size: 3vh;
+    background-color: cornsilk;
+    font-style: italic;
+}
+#about h1{
+    padding-bottom: 5%;
+}
+.bi {
+    
+    padding-left: 2%;
+    
+    font-size: 120%;
+}
+.bi:hover {
+  opacity: 0.8;
+}
+.bi-github {
+  
+  color: black;
+}
+.bi-instagram {
+  
+  color: rgb(211, 98, 22);
+}
